@@ -1,0 +1,22 @@
+{
+  "name": "rb-color-theme",
+  "displayName": "rb-color-theme",
+  "description": "color-theme-by-RB",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "robotic-desaturated",
+        "uiTheme": "vs-dark",
+        "path": "./themes/robotic-desaturated-color-theme.json"
+      }
+    ]
+  }
+}
