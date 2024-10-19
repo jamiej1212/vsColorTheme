@@ -1,3 +1,3 @@
 # rb-color-theme README
 
-# Just a desaturated-color theme
+Just a color-theme for VS code
