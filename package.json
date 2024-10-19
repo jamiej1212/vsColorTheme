@@ -2,7 +2,7 @@
   "name": "rb-color-theme",
   "displayName": "RB's Robotic",
   "description": "Desaturated color theme",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.94.0"
   },
