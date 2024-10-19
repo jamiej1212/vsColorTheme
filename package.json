@@ -1,11 +1,12 @@
 {
   "name": "rb-color-theme",
-  "displayName": "rb-color-theme",
-  "description": "color-theme-by-RB",
-  "version": "0.0.1",
+  "displayName": "RB's Robotic",
+  "description": "Desaturated color theme",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.94.0"
   },
+  "publisher":"TrexTheRobot",
   "icon": "icon.png",
   "categories": [
     "Themes"
